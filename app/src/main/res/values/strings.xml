@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab_02</string>
+    <string name="a">A</string>
+    <string name="a1">A:</string>
+    <string name="b">B:</string>
+    <string name="c">Result:</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUBTRACT</string>
+    <string name="multi">Multiply</string>
+    <string name="div">DIVIDE</string>
+    <string name="cos">COS</string>
+    <string name="sin">SIN</string>
+    <string name="tan">TAN</string>
+</resources>
